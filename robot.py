@@ -1,5 +1,6 @@
 from wxpy import *
 
+#微信自动回复聊天机器人
 # 登录
 bot = Bot()
 
